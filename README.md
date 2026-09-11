@@ -1,1 +1,1 @@
-Let alleen op de bestanden in de mapjes
+Let alleen op genummerde mapjes
